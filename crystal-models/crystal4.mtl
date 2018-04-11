@@ -1,0 +1,24 @@
+# Blender MTL File: 'None'
+# Material Count: 2
+
+newmtl Material
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.610690 0.500428 0.601598
+Ks 0.500000 0.500000 0.500000
+Ke 0.229009 0.187661 0.225599
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd crystal\crystal_text.jpg
+
+newmtl Material.003
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.605131 0.000927
+Ks 0.500000 0.500000 0.500000
+Ke 0.300000 0.226924 0.000348
+Ni 1.000000
+d 0.600000
+illum 2
+map_Kd crystal\crystal_text.jpg
